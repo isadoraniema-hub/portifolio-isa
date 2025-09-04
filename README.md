@@ -33,5 +33,9 @@ Olá! Sou a Isa e estou começando no desenvolvimento web.
 Gosto de aprender criando projetos simples e práticos.
 </p>
 </section>
-
+<section id="projetos">
+<h2>Projetos</h2>
+<article>
+<h3>Lista de Tarefas (HTML)</h3>
+<p>Projeto básico com listas e links.</p>
 
